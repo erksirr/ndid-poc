@@ -2139,11 +2139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erk_es/Desktop/work_streamit/test_code/ndid/poc/ndid-poc/ndid-poc.csproj",
+      "projectUniqueName": "/Users/erk_es/Desktop/work_streamit/scb-bahtnet-next-gen/test_code/ndid/poc/ndid-poc/rp/ndid-poc.csproj",
       "projectName": "ndid-poc",
-      "projectPath": "/Users/erk_es/Desktop/work_streamit/test_code/ndid/poc/ndid-poc/ndid-poc.csproj",
+      "projectPath": "/Users/erk_es/Desktop/work_streamit/scb-bahtnet-next-gen/test_code/ndid/poc/ndid-poc/rp/ndid-poc.csproj",
       "packagesPath": "/Users/erk_es/.nuget/packages/",
-      "outputPath": "/Users/erk_es/Desktop/work_streamit/test_code/ndid/poc/ndid-poc/obj/",
+      "outputPath": "/Users/erk_es/Desktop/work_streamit/scb-bahtnet-next-gen/test_code/ndid/poc/ndid-poc/rp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erk_es/.nuget/NuGet/NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ndid-poc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09dade2365976609dac942d7f8e2f794d2181196")]
 [assembly: System.Reflection.AssemblyProductAttribute("ndid-poc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ndid-poc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
